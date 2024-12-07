@@ -1,14 +1,20 @@
 ## Hi, I am Keyuri Patel 👋
 ### Full Stack Developer
 
-**Technologies I work with:**
+**Technologies I work with:****Technologies I work with:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23FFB813.svg?style=flat-square&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233B8EB9.svg?style=flat-square&logo=python&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-%2300f.svg?style=flat-square&logo=oracle&logoColor=white)
+
 
 - 🌱 I’m currently learning **Spring Boot, Django**, and enhancing my **Database** skills.
 - 👯 I’m looking to collaborate on **web development** projects, especially with **Java** or **Python** frameworks.
