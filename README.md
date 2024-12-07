@@ -31,6 +31,7 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 ---
 
 ### 📂 My Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelkeyuri2012&layout=compact)
 - [**eNotes Project**](https://github.com/patelkeyuri2012/enotes) - A web-based **eNotes** application using **JSP** and **Servlets** with full CRUD functionality, database integration, and user management.
 - [**TIC-TAC-TOE Game**](https://github.com/patelkeyuri2012/tic-tac-toe) - A classic **Tic-Tac-Toe** game built using **Java Swing** and **AWT**.
 - [**Employee Management System**](https://github.com/patelkeyuri2012/employee-management) - An **Employee Management System** implemented using **PLSQL** and featuring advanced database objects like triggers, procedures, and functions.
@@ -41,5 +42,3 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 - **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patelkeyuri2012&repo=patelkeyuri2012)](https://github.com/patelkeyuri2012/github-readme-stats)
