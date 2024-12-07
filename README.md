@@ -26,7 +26,7 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 ---
 
 ### 📈 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
