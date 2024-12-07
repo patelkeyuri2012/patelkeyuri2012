@@ -18,7 +18,7 @@
 - 📫 How to reach me: You can reach me via **patelkeyuri2002@gmail.com** or through my **[GitHub profile](https://github.com/patelkeyuri2012)**.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I’m always eager to learn new technologies and apply them to real-world projects!
-
+- ⚡ Tableau Portfolio: [My Tableau Vizzes](https://public.tableau.com/app/profile/patelkeyuri2012/vizzes)
 ---
 
 ### About Me
