@@ -42,4 +42,4 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 - **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patelkeyuri2012&repo=github-readme-stats)](https://github.com/patelkeyuri2012/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patelkeyuri2012&repo=patelkeyuri2012)](https://github.com/patelkeyuri2012/github-readme-stats)
