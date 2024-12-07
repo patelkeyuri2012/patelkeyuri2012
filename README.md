@@ -2,18 +2,19 @@
 ### Full Stack Developer
 
 **Technologies I work with:**
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-%23FFB813.svg?style=flat-square&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233B8EB9.svg?style=flat-square&logo=python&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-- ![PLSQL](https://img.shields.io/badge/PLSQL-%2300f.svg?style=flat-square&logo=oracle&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23FFB813.svg?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233B8EB9.svg?style=flat-square&logo=python&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![PLSQL](https://img.shields.io/badge/PLSQL-%2300f.svg?style=flat-square&logo=oracle&logoColor=white)
+
 - 🌱 I’m currently learning **Spring Boot, Django**, and enhancing my **Database** skills.
 - 👯 I’m looking to collaborate on **web development** projects, especially with **Java** or **Python** frameworks.
 - 🤔 I’m looking for help with **advanced JavaScript** concepts and **performance optimization**.
 - 💬 Ask me about **HTML, CSS, JavaScript, JSP/Servlets, Java, Spring Boot, Python, Django, MySQL, PLSQL**.
-- 📫 How to reach me: You can reach me via **patelkeyuri2002@gmail.com** or through my **[github.com/patelkeyuri2012](https://github.com/patelkeyuri2012)** profile.
+- 📫 How to reach me: You can reach me via **patelkeyuri2002@gmail.com** or through my **[GitHub profile](https://github.com/patelkeyuri2012)**.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I’m always eager to learn new technologies and apply them to real-world projects!
 
@@ -34,7 +35,7 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 ---
 
 ### 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)
 
 ---
 
