@@ -2,16 +2,15 @@
 ### Full Stack Developer
 
 **Technologies I work with:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23FFB813.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233B8EB9.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Java-%23FFB813.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Python-%233B8EB9.svg?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 
 - 🌱 I’m currently learning **Spring Boot, Django**, and enhancing my **Database** skills.
