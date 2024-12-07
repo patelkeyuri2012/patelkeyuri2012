@@ -27,7 +27,6 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 
 ### 📈 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
@@ -42,3 +41,5 @@ I enjoy experimenting with new technologies and love learning through hands-on p
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 - **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patelkeyuri2012&repo=github-readme-stats)](https://github.com/patelkeyuri2012/github-readme-stats)
