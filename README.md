@@ -10,7 +10,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Python-%233B8EB9.svg?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+
+![MySQL](https://img.shields.io/badge/MySQL-MySQL-%2300f.svg?style=flat&logoColor=white)
 
 
 - 🌱 I’m currently learning **Spring Boot, Django**, and enhancing my **Database** skills.
