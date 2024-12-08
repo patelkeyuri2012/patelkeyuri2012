@@ -5,7 +5,7 @@
 - 👯 **Looking to collaborate on:** **Web Development** projects, especially with **Java** or **Python** frameworks.
 - 🤔 **Looking for help with:** **Advanced JavaScript** concepts and **performance optimization**.
 - 💬 **Ask me about:** Python, Django, Java, Spring Boot, JSP/Servlets, MySQL, PL/SQL, HTML, CSS, JavaScript.
-- 📫 **How to reach me:** [**patelkeyuri2002@gmail.com**](mailto:patelkeyuri2002@gmail.com)
+- 📫 **How to reach me:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
 - 😄 **Pronouns:** **She/Her**
 - ⚡ **Fun fact:** I am passionate about learning and working with cutting-edge technologies. My mission is to build high-quality, scalable applications that can make a difference. I enjoy experimenting with new technologies and solving complex problems through hands-on projects. Feel free to explore my repositories or reach out to collaborate on exciting tech challenges!
 
