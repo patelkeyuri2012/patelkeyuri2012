@@ -5,7 +5,7 @@
 - 🌱 **Currently learning:** **Spring Boot**, **Django**, and enhancing my **Database** skills.
 - 👯 **Looking to collaborate on:** **Web Development** projects, especially with **Java** or **Python** frameworks.
 - 🤔 **Looking for help with:** **Advanced JavaScript** concepts and **performance optimization**.
-- 💬 **Ask me about:** **HTML, CSS, JavaScript, JSP/Servlets, Java, Spring Boot, Python, Django, MySQL, PLSQL**.
+- 💬 **Ask me about:** **Python, Django, Java, Spring Boot, JSP/Servlets, MySQL, PLSQLHTML, CSS, JavaScript**.
 - 📫 **How to reach me:** You can reach me via [**patelkeyuri2002@gmail.com**](mailto:patelkeyuri2002@gmail.com).
 - 😄 **Pronouns:** **She/Her**
 - ⚡ **Fun fact:** I’m always eager to learn new technologies and apply them to real-world projects!
