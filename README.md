@@ -1,8 +1,6 @@
 # Hi, I'm Keyuri Patel 👋
 ### Full Stack Developer
 
----
-
 - 🌱 **Currently learning:** **Spring Boot**, **Django**, and enhancing my **Database** skills.
 - 👯 **Looking to collaborate on:** **Web Development** projects, especially with **Java** or **Python** frameworks.
 - 🤔 **Looking for help with:** **Advanced JavaScript** concepts and **performance optimization**.
