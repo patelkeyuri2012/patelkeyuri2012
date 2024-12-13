@@ -1,13 +1,13 @@
-# Hi, I'm Keyuri Patel 👋
-### Full Stack Developer 
+# Hi, I'm Keyuri Patel 👋  
+### Full Stack Developer
 
 - 🌱 **Currently learning:**  **Django**, **Spring Boot**, and enhancing my **Database** skills.
 - 👯 **Looking to collaborate on:** **Web Development** projects, especially with **Java** or **Python** frameworks.
 - 💬 **Ask me about:** Python, Django, Java, Spring Boot, JSP/Servlets, MySQL, PL/SQL, HTML, CSS, JavaScript.
 - 📫 **How to reach me:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)
 - 😄 **Pronouns:** **She/Her**
-- ⚡ **Fun fact:** I am passionate about learning and working with cutting-edge technologies. My mission is to build high-quality, scalable applications that can make a difference. I enjoy experimenting with new technologies and solving complex problems through hands-on projects. Feel free to explore my repositories or reach out to collaborate on exciting tech challenges!
-  
+- ⚡ **Fun fact:** I am passionate about learning and working with cutting-edge technologies. My mission is to build high-quality, scalable applications that can make a difference. I enjoy experimenting with new technologies and solving complex problems through hands-on projects. Outside of coding, I love solving algorithmic puzzles and exploring new tech trends.
+
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelkeyuri2012" alt="patelkeyuri2012" /></a> </p>
@@ -53,5 +53,12 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 
 ### 🌐 Connect with me:
 
-**Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)  
+- **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)  
+- **Portfolio:** [www.keyuripatel.dev](http://www.keyuripatel.dev) *(optional)*
+
+---
+
+## 📢 Let's Collaborate!
+
+Feel free to reach out if you're looking to collaborate on web development projects, share ideas, or work on exciting tech challenges. I love experimenting with new technologies and am always open to learning from others!
 
