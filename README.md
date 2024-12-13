@@ -10,11 +10,11 @@
   
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel12499" alt="shubhampatel12499" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelkeyuri2012" alt="patelkeyuri2012" /></a> </p>
 
 ## 🛠️ Technologies I work with:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatel12499&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelkeyuri2012&layout=compact)
 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -68,8 +68,8 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 
 ## 📈 My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhampatel12499&show_icons=true&theme=transparent)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhampatel12499)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelkeyuri2012)  
 
 ---
 
