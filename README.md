@@ -69,12 +69,11 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 ## 📈 My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012&theme=highcontrast)](https://git.io/streak-stats)
+
 ---
 
 ### 🌐 Connect with me:
 
 **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)  
 
-
-arrange it
