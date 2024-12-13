@@ -31,7 +31,7 @@
 ## 📈 My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012&theme=highcontrast)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelkeyuri2012&theme=transparent)
 
 
