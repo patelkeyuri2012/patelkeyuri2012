@@ -26,21 +26,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelkeyuri2012&layout=compact)
 
-### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+---
 
-### Backend:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+## 📈 My GitHub Stats:
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-4479A1?style=flat&logo=oracle&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelkeyuri2012&theme=transparent)
 
-### Tools:
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
 ---
 
@@ -57,13 +50,6 @@ A web-based **eNotes** application developed using **JSP and Servlets**, offerin
 
 ### [eCommerce Shopping Website](https://github.com/patelkeyuri2012/eCommerce-Shopping-Website)
 A responsive **E-Commerce Shopping Website** developed with **PHP**, designed using **HTML5** and **Bootstrap CSS3**, with functionalities like wishlist management, add-to-cart, and basic payment options.
-
----
-
-## 📈 My GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelkeyuri2012&show_icons=true&theme=transparent)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=patelkeyuri2012&theme=transparent)
 
 ---
 
