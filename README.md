@@ -14,6 +14,8 @@
 
 ## 🛠️ Technologies I work with:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelkeyuri2012&layout=compact)
+
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40" /> </a>
@@ -23,8 +25,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelkeyuri2012&layout=compact)
 
 ---
 
@@ -54,11 +54,6 @@ A responsive **E-Commerce Shopping Website** developed with **PHP**, designed us
 ### 🌐 Connect with me:
 
 - **Email:** [patelkeyuri2002@gmail.com](mailto:patelkeyuri2002@gmail.com)  
-- **Portfolio:** [www.keyuripatel.dev](http://www.keyuripatel.dev) *(optional)*
 
 ---
-
-## 📢 Let's Collaborate!
-
-Feel free to reach out if you're looking to collaborate on web development projects, share ideas, or work on exciting tech challenges. I love experimenting with new technologies and am always open to learning from others!
 
